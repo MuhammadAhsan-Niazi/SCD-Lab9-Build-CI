@@ -24,7 +24,7 @@ class MathUtilsTest {
 
     @Test
     void averageOfValues() {
-        assertEquals(3.0, MathUtils.average(1, 2, 3, 4), 0.0001); // DELIBERATE BREAK
+        assertEquals(2.5, MathUtils.average(1, 2, 3, 4), 0.0001);
     }
 
     @Test
