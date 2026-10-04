@@ -1,0 +1,2 @@
+[         5 tests successful      ]
+[         0 tests failed          ]
